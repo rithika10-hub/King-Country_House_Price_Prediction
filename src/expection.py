@@ -1,5 +1,5 @@
 import sys
-import sys
+from drc.logger import logging
 
 
 class customexception(Exception):
